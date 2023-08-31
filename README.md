@@ -39,6 +39,10 @@ This Python script utilizes the OpenCV, NumPy, and PyAutoGUI libraries to captur
 - OpenCV
 - NumPy
 
+![High Score using Bot](image.png)
+
+P.S. Try fiddling with the screen resolutions for best results.
+
 # References:
 - https://www.youtube.com/watch?v=uNLcYEXsVXQ
 - https://www.youtube.com/watch?v=UBLLtJG3lLw
